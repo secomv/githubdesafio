@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header, main, footer {
+    width: 100%;
+    margin:auto;
+}
+
+header {
+    width: 100%;
+    height: 40px;
+    background-color: #000;
+    
+}
+
+div#logo  {
+
+    width: 80%;
+    padding:10px;
+    font-size: 18px;
+    color: #fff;
+    font-family: helvetica;
+    font-weight: bold;
+    margin-left: 100px;
+}
+
+.flex {
+    display: flex;
+}
+
+nav a{
+    width: 80px;
+   padding: 10px;
+   
+}
+
+a{
+    text-decoration: none;
+    font-size: 0.8rem;
+    font-family: helvetica;
+    color: #fff;
+    font-weight: bold;
+    margin-right: 50px;
+}
+
+footer  {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: helvetica;
+    width: 100%;
+    height: 80px;
+    background-color: #000;
+    justify-content: center;
+    align-items: center;
+    margin-top: 505px
+}
+
+a.go:hover {
+    background-color: red;
+    justify-content: center;
+}
+
+main {
+    box-sizing: border-box;
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    height: auto;
+    top:150px ;
+}
+
+
+
+div#box-main  {
+    width: 255px;
+    height: 70px;
+}
+
+
+p{
+  width: 100%;
+  height: auto;
+  background-color: #fafafa;  
+  font-family: helvetica;
+  padding: 10px;
+  position: relative;
+  margin-left: 400px;
+  top: 100px;
+
+ 
+}
+
+.txt {
+width: 90%;
+height: 30px;
+outline: none;
+border-radius: 5px;
+border: 1px solid #000;
+justify-content: center;
+display: flex;
+}
+
+.estante {
+    width: 100%;
+    height: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+    display: flex;
+    margin-bottom: 200px;
+    position: relative;
+    left: 720px;
+    top: 30px;
+    
+}
+
+.txt2 {
+    width: 40%;
+    height: auto;
+    background-color: #a4b0be;
+    font-family: helvetica;
+    font-weight: bold;
+    color: #000;
+    margin: 2px;
+    padding: 2px;
+    
+}
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
